@@ -17,4 +17,4 @@
 #### Opening the Notebook
 * Using a command-line program, navigate to the folder containing the downloaded file and run the following line: **`ipython notebook coin-flips.ipynb`**
 
-* **Note:** This will open in a browser window.
+* **Note:** This will open in a browser window and take over the command-line program's window until you close out of IPython Notebook. If you have closed your browser window, but your command line is still running the notebook, kill the process by pressing `Ctrl+C` or quitting the program entirely.
