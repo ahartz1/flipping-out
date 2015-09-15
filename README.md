@@ -8,8 +8,6 @@
 
 * You will need to have **python&nbsp;3** installed on your machine. See [python's site](https://www.python.org/) for details.
 
-* You will need to have IPython Notebook installed on your machine. See [IPython's installation page](http://jupyter.readthedocs.org/en/latest/install.html) for details.
-
 * Clone this repo onto your machine.
 
 * You will need to make sure that you have a virtual environment running in the folder that you intend to work from. [See this site for details if you're not familiar.](http://docs.python-guide.org/en/latest/dev/virtualenvs/) **Complete this step before attempting the below.**
