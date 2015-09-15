@@ -16,3 +16,5 @@
 
 #### Opening the Notebook
 * Using a command-line program, navigate to the folder containing the downloaded file and run the following line: **`ipython notebook coin-flips.ipynb`**
+
+* **Note:** This will open in a browser window.
