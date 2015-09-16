@@ -1,6 +1,9 @@
 # Flipping Out
 
 ## To View This Notebook
+Just click on the coin-flips.ipynb file above.
+
+## To Run This Notebook
 #### System Requirements / Installation
 
 * You will need to have **python&nbsp;3** installed on your machine. See [python's site](https://www.python.org/) for details.
