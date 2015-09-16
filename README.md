@@ -1,8 +1,5 @@
 # Flipping Out
 
-<!-- ## The Art -->
-<!-- ![](color-3810425323431664496-3.png) -->
-
 ## To View This Notebook
 #### System Requirements / Installation
 
